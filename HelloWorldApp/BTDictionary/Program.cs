@@ -33,6 +33,10 @@ namespace BTDictionary
             Console.OutputEncoding = Encoding.UTF8;
             var keys = dic.Keys;
             while (true) {
+                foreach(var n in dic)
+                {
+                    Console.WriteLine(n);
+                }
                 Console.Write("Enter English word (Empty to exit):");
                 string input = Console.ReadLine();
                 if (dic.ContainsKey(input))
