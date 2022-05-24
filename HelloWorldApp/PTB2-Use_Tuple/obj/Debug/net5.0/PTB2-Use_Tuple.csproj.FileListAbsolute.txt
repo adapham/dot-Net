@@ -1,0 +1,16 @@
+D:\Univer\PRN211\repos\HelloWorldApp\PTB2-Use_Tuple\bin\Debug\net5.0\PTB2-Use_Tuple.exe
+D:\Univer\PRN211\repos\HelloWorldApp\PTB2-Use_Tuple\bin\Debug\net5.0\PTB2-Use_Tuple.deps.json
+D:\Univer\PRN211\repos\HelloWorldApp\PTB2-Use_Tuple\bin\Debug\net5.0\PTB2-Use_Tuple.runtimeconfig.json
+D:\Univer\PRN211\repos\HelloWorldApp\PTB2-Use_Tuple\bin\Debug\net5.0\PTB2-Use_Tuple.runtimeconfig.dev.json
+D:\Univer\PRN211\repos\HelloWorldApp\PTB2-Use_Tuple\bin\Debug\net5.0\PTB2-Use_Tuple.dll
+D:\Univer\PRN211\repos\HelloWorldApp\PTB2-Use_Tuple\bin\Debug\net5.0\PTB2-Use_Tuple.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\PTB2-Use_Tuple\obj\Debug\net5.0\PTB2-Use_Tuple.csproj.AssemblyReference.cache
+D:\Univer\PRN211\repos\HelloWorldApp\PTB2-Use_Tuple\obj\Debug\net5.0\PTB2-Use_Tuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\PRN211\repos\HelloWorldApp\PTB2-Use_Tuple\obj\Debug\net5.0\PTB2-Use_Tuple.AssemblyInfoInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\PTB2-Use_Tuple\obj\Debug\net5.0\PTB2-Use_Tuple.AssemblyInfo.cs
+D:\Univer\PRN211\repos\HelloWorldApp\PTB2-Use_Tuple\obj\Debug\net5.0\PTB2-Use_Tuple.csproj.CoreCompileInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\PTB2-Use_Tuple\obj\Debug\net5.0\PTB2-Use_Tuple.dll
+D:\Univer\PRN211\repos\HelloWorldApp\PTB2-Use_Tuple\obj\Debug\net5.0\refint\PTB2-Use_Tuple.dll
+D:\Univer\PRN211\repos\HelloWorldApp\PTB2-Use_Tuple\obj\Debug\net5.0\PTB2-Use_Tuple.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\PTB2-Use_Tuple\obj\Debug\net5.0\PTB2-Use_Tuple.genruntimeconfig.cache
+D:\Univer\PRN211\repos\HelloWorldApp\PTB2-Use_Tuple\obj\Debug\net5.0\ref\PTB2-Use_Tuple.dll

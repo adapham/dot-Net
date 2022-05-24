@@ -1,0 +1,16 @@
+D:\Univer\PRN211\repos\HelloWorldApp\MyRecord\bin\Debug\net5.0\MyRecord.exe
+D:\Univer\PRN211\repos\HelloWorldApp\MyRecord\bin\Debug\net5.0\MyRecord.deps.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyRecord\bin\Debug\net5.0\MyRecord.runtimeconfig.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyRecord\bin\Debug\net5.0\MyRecord.runtimeconfig.dev.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyRecord\bin\Debug\net5.0\MyRecord.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyRecord\bin\Debug\net5.0\MyRecord.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\MyRecord\obj\Debug\net5.0\MyRecord.csproj.AssemblyReference.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyRecord\obj\Debug\net5.0\MyRecord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\PRN211\repos\HelloWorldApp\MyRecord\obj\Debug\net5.0\MyRecord.AssemblyInfoInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyRecord\obj\Debug\net5.0\MyRecord.AssemblyInfo.cs
+D:\Univer\PRN211\repos\HelloWorldApp\MyRecord\obj\Debug\net5.0\MyRecord.csproj.CoreCompileInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyRecord\obj\Debug\net5.0\MyRecord.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyRecord\obj\Debug\net5.0\refint\MyRecord.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyRecord\obj\Debug\net5.0\MyRecord.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\MyRecord\obj\Debug\net5.0\MyRecord.genruntimeconfig.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyRecord\obj\Debug\net5.0\ref\MyRecord.dll

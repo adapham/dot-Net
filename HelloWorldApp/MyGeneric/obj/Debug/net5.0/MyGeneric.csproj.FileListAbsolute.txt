@@ -1,0 +1,16 @@
+D:\Univer\PRN211\repos\HelloWorldApp\MyGeneric\bin\Debug\net5.0\MyGeneric.exe
+D:\Univer\PRN211\repos\HelloWorldApp\MyGeneric\bin\Debug\net5.0\MyGeneric.deps.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyGeneric\bin\Debug\net5.0\MyGeneric.runtimeconfig.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyGeneric\bin\Debug\net5.0\MyGeneric.runtimeconfig.dev.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyGeneric\bin\Debug\net5.0\MyGeneric.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyGeneric\bin\Debug\net5.0\MyGeneric.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\MyGeneric\obj\Debug\net5.0\MyGeneric.csproj.AssemblyReference.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyGeneric\obj\Debug\net5.0\MyGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\PRN211\repos\HelloWorldApp\MyGeneric\obj\Debug\net5.0\MyGeneric.AssemblyInfoInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyGeneric\obj\Debug\net5.0\MyGeneric.AssemblyInfo.cs
+D:\Univer\PRN211\repos\HelloWorldApp\MyGeneric\obj\Debug\net5.0\MyGeneric.csproj.CoreCompileInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyGeneric\obj\Debug\net5.0\MyGeneric.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyGeneric\obj\Debug\net5.0\refint\MyGeneric.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyGeneric\obj\Debug\net5.0\MyGeneric.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\MyGeneric\obj\Debug\net5.0\MyGeneric.genruntimeconfig.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyGeneric\obj\Debug\net5.0\ref\MyGeneric.dll

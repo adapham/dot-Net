@@ -1,0 +1,16 @@
+D:\Univer\PRN211\repos\HelloWorldApp\MyIEnumerable\bin\Debug\net5.0\MyIEnumerable.exe
+D:\Univer\PRN211\repos\HelloWorldApp\MyIEnumerable\bin\Debug\net5.0\MyIEnumerable.deps.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyIEnumerable\bin\Debug\net5.0\MyIEnumerable.runtimeconfig.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyIEnumerable\bin\Debug\net5.0\MyIEnumerable.runtimeconfig.dev.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyIEnumerable\bin\Debug\net5.0\MyIEnumerable.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyIEnumerable\bin\Debug\net5.0\MyIEnumerable.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\MyIEnumerable\obj\Debug\net5.0\MyIEnumerable.csproj.AssemblyReference.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyIEnumerable\obj\Debug\net5.0\MyIEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\PRN211\repos\HelloWorldApp\MyIEnumerable\obj\Debug\net5.0\MyIEnumerable.AssemblyInfoInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyIEnumerable\obj\Debug\net5.0\MyIEnumerable.AssemblyInfo.cs
+D:\Univer\PRN211\repos\HelloWorldApp\MyIEnumerable\obj\Debug\net5.0\MyIEnumerable.csproj.CoreCompileInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyIEnumerable\obj\Debug\net5.0\MyIEnumerable.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyIEnumerable\obj\Debug\net5.0\refint\MyIEnumerable.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyIEnumerable\obj\Debug\net5.0\MyIEnumerable.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\MyIEnumerable\obj\Debug\net5.0\MyIEnumerable.genruntimeconfig.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyIEnumerable\obj\Debug\net5.0\ref\MyIEnumerable.dll

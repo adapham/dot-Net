@@ -1,0 +1,16 @@
+D:\Univer\PRN211\repos\HelloWorldApp\IOBacHoImage\obj\Debug\net5.0\IOBacHoImage.csproj.AssemblyReference.cache
+D:\Univer\PRN211\repos\HelloWorldApp\IOBacHoImage\obj\Debug\net5.0\IOBacHoImage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\PRN211\repos\HelloWorldApp\IOBacHoImage\obj\Debug\net5.0\IOBacHoImage.AssemblyInfoInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\IOBacHoImage\obj\Debug\net5.0\IOBacHoImage.AssemblyInfo.cs
+D:\Univer\PRN211\repos\HelloWorldApp\IOBacHoImage\obj\Debug\net5.0\IOBacHoImage.csproj.CoreCompileInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\IOBacHoImage\bin\Debug\net5.0\IOBacHoImage.exe
+D:\Univer\PRN211\repos\HelloWorldApp\IOBacHoImage\bin\Debug\net5.0\IOBacHoImage.deps.json
+D:\Univer\PRN211\repos\HelloWorldApp\IOBacHoImage\bin\Debug\net5.0\IOBacHoImage.runtimeconfig.json
+D:\Univer\PRN211\repos\HelloWorldApp\IOBacHoImage\bin\Debug\net5.0\IOBacHoImage.runtimeconfig.dev.json
+D:\Univer\PRN211\repos\HelloWorldApp\IOBacHoImage\bin\Debug\net5.0\IOBacHoImage.dll
+D:\Univer\PRN211\repos\HelloWorldApp\IOBacHoImage\bin\Debug\net5.0\IOBacHoImage.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\IOBacHoImage\obj\Debug\net5.0\IOBacHoImage.dll
+D:\Univer\PRN211\repos\HelloWorldApp\IOBacHoImage\obj\Debug\net5.0\refint\IOBacHoImage.dll
+D:\Univer\PRN211\repos\HelloWorldApp\IOBacHoImage\obj\Debug\net5.0\IOBacHoImage.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\IOBacHoImage\obj\Debug\net5.0\IOBacHoImage.genruntimeconfig.cache
+D:\Univer\PRN211\repos\HelloWorldApp\IOBacHoImage\obj\Debug\net5.0\ref\IOBacHoImage.dll

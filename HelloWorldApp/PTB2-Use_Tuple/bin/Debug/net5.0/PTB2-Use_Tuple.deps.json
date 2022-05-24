@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PTB2-Use_Tuple/1.0.0": {
+        "runtime": {
+          "PTB2-Use_Tuple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PTB2-Use_Tuple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

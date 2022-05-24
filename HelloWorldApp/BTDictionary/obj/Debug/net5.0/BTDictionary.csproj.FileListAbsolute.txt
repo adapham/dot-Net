@@ -1,0 +1,16 @@
+D:\Univer\PRN211\repos\HelloWorldApp\BTDictionary\bin\Debug\net5.0\BTDictionary.exe
+D:\Univer\PRN211\repos\HelloWorldApp\BTDictionary\bin\Debug\net5.0\BTDictionary.deps.json
+D:\Univer\PRN211\repos\HelloWorldApp\BTDictionary\bin\Debug\net5.0\BTDictionary.runtimeconfig.json
+D:\Univer\PRN211\repos\HelloWorldApp\BTDictionary\bin\Debug\net5.0\BTDictionary.runtimeconfig.dev.json
+D:\Univer\PRN211\repos\HelloWorldApp\BTDictionary\bin\Debug\net5.0\BTDictionary.dll
+D:\Univer\PRN211\repos\HelloWorldApp\BTDictionary\bin\Debug\net5.0\BTDictionary.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\BTDictionary\obj\Debug\net5.0\BTDictionary.csproj.AssemblyReference.cache
+D:\Univer\PRN211\repos\HelloWorldApp\BTDictionary\obj\Debug\net5.0\BTDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\PRN211\repos\HelloWorldApp\BTDictionary\obj\Debug\net5.0\BTDictionary.AssemblyInfoInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\BTDictionary\obj\Debug\net5.0\BTDictionary.AssemblyInfo.cs
+D:\Univer\PRN211\repos\HelloWorldApp\BTDictionary\obj\Debug\net5.0\BTDictionary.csproj.CoreCompileInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\BTDictionary\obj\Debug\net5.0\BTDictionary.dll
+D:\Univer\PRN211\repos\HelloWorldApp\BTDictionary\obj\Debug\net5.0\refint\BTDictionary.dll
+D:\Univer\PRN211\repos\HelloWorldApp\BTDictionary\obj\Debug\net5.0\BTDictionary.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\BTDictionary\obj\Debug\net5.0\BTDictionary.genruntimeconfig.cache
+D:\Univer\PRN211\repos\HelloWorldApp\BTDictionary\obj\Debug\net5.0\ref\BTDictionary.dll
