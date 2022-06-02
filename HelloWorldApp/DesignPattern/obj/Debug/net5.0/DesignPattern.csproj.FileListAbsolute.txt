@@ -1,0 +1,16 @@
+D:\Univer\PRN211\repos\HelloWorldApp\DesignPattern\bin\Debug\net5.0\DesignPattern.exe
+D:\Univer\PRN211\repos\HelloWorldApp\DesignPattern\bin\Debug\net5.0\DesignPattern.deps.json
+D:\Univer\PRN211\repos\HelloWorldApp\DesignPattern\bin\Debug\net5.0\DesignPattern.runtimeconfig.json
+D:\Univer\PRN211\repos\HelloWorldApp\DesignPattern\bin\Debug\net5.0\DesignPattern.runtimeconfig.dev.json
+D:\Univer\PRN211\repos\HelloWorldApp\DesignPattern\bin\Debug\net5.0\DesignPattern.dll
+D:\Univer\PRN211\repos\HelloWorldApp\DesignPattern\bin\Debug\net5.0\DesignPattern.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\DesignPattern\obj\Debug\net5.0\DesignPattern.csproj.AssemblyReference.cache
+D:\Univer\PRN211\repos\HelloWorldApp\DesignPattern\obj\Debug\net5.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\PRN211\repos\HelloWorldApp\DesignPattern\obj\Debug\net5.0\DesignPattern.AssemblyInfoInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\DesignPattern\obj\Debug\net5.0\DesignPattern.AssemblyInfo.cs
+D:\Univer\PRN211\repos\HelloWorldApp\DesignPattern\obj\Debug\net5.0\DesignPattern.csproj.CoreCompileInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\DesignPattern\obj\Debug\net5.0\DesignPattern.dll
+D:\Univer\PRN211\repos\HelloWorldApp\DesignPattern\obj\Debug\net5.0\refint\DesignPattern.dll
+D:\Univer\PRN211\repos\HelloWorldApp\DesignPattern\obj\Debug\net5.0\DesignPattern.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\DesignPattern\obj\Debug\net5.0\DesignPattern.genruntimeconfig.cache
+D:\Univer\PRN211\repos\HelloWorldApp\DesignPattern\obj\Debug\net5.0\ref\DesignPattern.dll

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "MyAppDoMain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MyAppDoMain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyAppDoMain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MyAppDoMain/1.0.0": {
+      "type": "project",
+      "path": "../MyAppDoMain/MyAppDoMain.csproj",
+      "msbuildProject": "../MyAppDoMain/MyAppDoMain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "MyAppDoMain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ADA\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Univer\\PRN211\\repos\\HelloWorldApp\\MyAppDoMain\\MyAppDoMain.csproj": {
+              "projectPath": "D:\\Univer\\PRN211\\repos\\HelloWorldApp\\MyAppDoMain\\MyAppDoMain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -60,7 +83,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

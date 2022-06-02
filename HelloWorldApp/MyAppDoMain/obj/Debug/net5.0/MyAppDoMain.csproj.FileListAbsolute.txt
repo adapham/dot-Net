@@ -1,0 +1,16 @@
+D:\Univer\PRN211\repos\HelloWorldApp\MyAppDoMain\bin\Debug\net5.0\MyAppDoMain.exe
+D:\Univer\PRN211\repos\HelloWorldApp\MyAppDoMain\bin\Debug\net5.0\MyAppDoMain.deps.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyAppDoMain\bin\Debug\net5.0\MyAppDoMain.runtimeconfig.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyAppDoMain\bin\Debug\net5.0\MyAppDoMain.runtimeconfig.dev.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyAppDoMain\bin\Debug\net5.0\MyAppDoMain.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyAppDoMain\bin\Debug\net5.0\MyAppDoMain.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\MyAppDoMain\obj\Debug\net5.0\MyAppDoMain.csproj.AssemblyReference.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyAppDoMain\obj\Debug\net5.0\MyAppDoMain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\PRN211\repos\HelloWorldApp\MyAppDoMain\obj\Debug\net5.0\MyAppDoMain.AssemblyInfoInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyAppDoMain\obj\Debug\net5.0\MyAppDoMain.AssemblyInfo.cs
+D:\Univer\PRN211\repos\HelloWorldApp\MyAppDoMain\obj\Debug\net5.0\MyAppDoMain.csproj.CoreCompileInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyAppDoMain\obj\Debug\net5.0\MyAppDoMain.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyAppDoMain\obj\Debug\net5.0\refint\MyAppDoMain.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyAppDoMain\obj\Debug\net5.0\MyAppDoMain.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\MyAppDoMain\obj\Debug\net5.0\MyAppDoMain.genruntimeconfig.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyAppDoMain\obj\Debug\net5.0\ref\MyAppDoMain.dll

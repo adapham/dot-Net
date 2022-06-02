@@ -4,14 +4,14 @@
     "D:\\Univer\\PRN211\\repos\\HelloWorldApp\\OPP\\OOP.csproj": {}
   },
   "projects": {
-    "D:\\Univer\\PRN211\\repos\\HelloWorldApp\\OPP\\OOP.csproj": {
+    "D:\\Univer\\PRN211\\repos\\HelloWorldApp\\MyAppDoMain\\MyAppDoMain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Univer\\PRN211\\repos\\HelloWorldApp\\OPP\\OOP.csproj",
-        "projectName": "OOP",
-        "projectPath": "D:\\Univer\\PRN211\\repos\\HelloWorldApp\\OPP\\OOP.csproj",
+        "projectUniqueName": "D:\\Univer\\PRN211\\repos\\HelloWorldApp\\MyAppDoMain\\MyAppDoMain.csproj",
+        "projectName": "MyAppDoMain",
+        "projectPath": "D:\\Univer\\PRN211\\repos\\HelloWorldApp\\MyAppDoMain\\MyAppDoMain.csproj",
         "packagesPath": "C:\\Users\\ADA\\.nuget\\packages\\",
-        "outputPath": "D:\\Univer\\PRN211\\repos\\HelloWorldApp\\OPP\\obj\\",
+        "outputPath": "D:\\Univer\\PRN211\\repos\\HelloWorldApp\\MyAppDoMain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,65 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Univer\\PRN211\\repos\\HelloWorldApp\\OPP\\OOP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Univer\\PRN211\\repos\\HelloWorldApp\\OPP\\OOP.csproj",
+        "projectName": "OOP",
+        "projectPath": "D:\\Univer\\PRN211\\repos\\HelloWorldApp\\OPP\\OOP.csproj",
+        "packagesPath": "C:\\Users\\ADA\\.nuget\\packages\\",
+        "outputPath": "D:\\Univer\\PRN211\\repos\\HelloWorldApp\\OPP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Univer\\PRN211\\repos\\HelloWorldApp\\MyAppDoMain\\MyAppDoMain.csproj": {
+                "projectPath": "D:\\Univer\\PRN211\\repos\\HelloWorldApp\\MyAppDoMain\\MyAppDoMain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,16 @@
+D:\Univer\PRN211\repos\HelloWorldApp\MyEvent\obj\Debug\net5.0\MyEvent.csproj.AssemblyReference.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyEvent\obj\Debug\net5.0\MyEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\PRN211\repos\HelloWorldApp\MyEvent\obj\Debug\net5.0\MyEvent.AssemblyInfoInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyEvent\obj\Debug\net5.0\MyEvent.AssemblyInfo.cs
+D:\Univer\PRN211\repos\HelloWorldApp\MyEvent\obj\Debug\net5.0\MyEvent.csproj.CoreCompileInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyEvent\bin\Debug\net5.0\MyEvent.exe
+D:\Univer\PRN211\repos\HelloWorldApp\MyEvent\bin\Debug\net5.0\MyEvent.deps.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyEvent\bin\Debug\net5.0\MyEvent.runtimeconfig.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyEvent\bin\Debug\net5.0\MyEvent.runtimeconfig.dev.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyEvent\bin\Debug\net5.0\MyEvent.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyEvent\bin\Debug\net5.0\MyEvent.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\MyEvent\obj\Debug\net5.0\MyEvent.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyEvent\obj\Debug\net5.0\refint\MyEvent.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyEvent\obj\Debug\net5.0\MyEvent.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\MyEvent\obj\Debug\net5.0\MyEvent.genruntimeconfig.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyEvent\obj\Debug\net5.0\ref\MyEvent.dll

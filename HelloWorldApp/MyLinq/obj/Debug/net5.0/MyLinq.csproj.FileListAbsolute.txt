@@ -1,0 +1,16 @@
+D:\Univer\PRN211\repos\HelloWorldApp\MyLinq\bin\Debug\net5.0\MyLinq.exe
+D:\Univer\PRN211\repos\HelloWorldApp\MyLinq\bin\Debug\net5.0\MyLinq.deps.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyLinq\bin\Debug\net5.0\MyLinq.runtimeconfig.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyLinq\bin\Debug\net5.0\MyLinq.runtimeconfig.dev.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyLinq\bin\Debug\net5.0\MyLinq.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyLinq\bin\Debug\net5.0\MyLinq.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\MyLinq\obj\Debug\net5.0\MyLinq.csproj.AssemblyReference.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyLinq\obj\Debug\net5.0\MyLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\PRN211\repos\HelloWorldApp\MyLinq\obj\Debug\net5.0\MyLinq.AssemblyInfoInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyLinq\obj\Debug\net5.0\MyLinq.AssemblyInfo.cs
+D:\Univer\PRN211\repos\HelloWorldApp\MyLinq\obj\Debug\net5.0\MyLinq.csproj.CoreCompileInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyLinq\obj\Debug\net5.0\MyLinq.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyLinq\obj\Debug\net5.0\refint\MyLinq.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyLinq\obj\Debug\net5.0\MyLinq.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\MyLinq\obj\Debug\net5.0\MyLinq.genruntimeconfig.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyLinq\obj\Debug\net5.0\ref\MyLinq.dll

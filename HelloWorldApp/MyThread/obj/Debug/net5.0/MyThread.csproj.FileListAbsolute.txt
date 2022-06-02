@@ -1,0 +1,16 @@
+D:\Univer\PRN211\repos\HelloWorldApp\MyThread\obj\Debug\net5.0\MyThread.csproj.AssemblyReference.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyThread\obj\Debug\net5.0\MyThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\PRN211\repos\HelloWorldApp\MyThread\obj\Debug\net5.0\MyThread.AssemblyInfoInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyThread\obj\Debug\net5.0\MyThread.AssemblyInfo.cs
+D:\Univer\PRN211\repos\HelloWorldApp\MyThread\obj\Debug\net5.0\MyThread.csproj.CoreCompileInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyThread\bin\Debug\net5.0\MyThread.exe
+D:\Univer\PRN211\repos\HelloWorldApp\MyThread\bin\Debug\net5.0\MyThread.deps.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyThread\bin\Debug\net5.0\MyThread.runtimeconfig.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyThread\bin\Debug\net5.0\MyThread.runtimeconfig.dev.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyThread\bin\Debug\net5.0\MyThread.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyThread\bin\Debug\net5.0\MyThread.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\MyThread\obj\Debug\net5.0\MyThread.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyThread\obj\Debug\net5.0\refint\MyThread.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyThread\obj\Debug\net5.0\MyThread.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\MyThread\obj\Debug\net5.0\MyThread.genruntimeconfig.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyThread\obj\Debug\net5.0\ref\MyThread.dll

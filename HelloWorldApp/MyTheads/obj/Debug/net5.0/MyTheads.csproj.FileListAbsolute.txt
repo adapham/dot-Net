@@ -1,0 +1,16 @@
+D:\Univer\PRN211\repos\HelloWorldApp\MyTheads\bin\Debug\net5.0\MyTheads.exe
+D:\Univer\PRN211\repos\HelloWorldApp\MyTheads\bin\Debug\net5.0\MyTheads.deps.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyTheads\bin\Debug\net5.0\MyTheads.runtimeconfig.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyTheads\bin\Debug\net5.0\MyTheads.runtimeconfig.dev.json
+D:\Univer\PRN211\repos\HelloWorldApp\MyTheads\bin\Debug\net5.0\MyTheads.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyTheads\bin\Debug\net5.0\MyTheads.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\MyTheads\obj\Debug\net5.0\MyTheads.csproj.AssemblyReference.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyTheads\obj\Debug\net5.0\MyTheads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\PRN211\repos\HelloWorldApp\MyTheads\obj\Debug\net5.0\MyTheads.AssemblyInfoInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyTheads\obj\Debug\net5.0\MyTheads.AssemblyInfo.cs
+D:\Univer\PRN211\repos\HelloWorldApp\MyTheads\obj\Debug\net5.0\MyTheads.csproj.CoreCompileInputs.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyTheads\obj\Debug\net5.0\MyTheads.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyTheads\obj\Debug\net5.0\refint\MyTheads.dll
+D:\Univer\PRN211\repos\HelloWorldApp\MyTheads\obj\Debug\net5.0\MyTheads.pdb
+D:\Univer\PRN211\repos\HelloWorldApp\MyTheads\obj\Debug\net5.0\MyTheads.genruntimeconfig.cache
+D:\Univer\PRN211\repos\HelloWorldApp\MyTheads\obj\Debug\net5.0\ref\MyTheads.dll

@@ -8,7 +8,6 @@ namespace MyIEnumerable
     {
         ArrayList list= new ArrayList();
         public void AddItem(params T[] items) => list.AddRange(items);
-
         public IEnumerator GetEnumerator()
         {
             return ((IEnumerable)list).GetEnumerator();

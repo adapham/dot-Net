@@ -1,0 +1,16 @@
+D:\Univer\PRN211\repos\FundamentalsLanguage_Exercises\FundamentalsLanguage_Exercises\bin\Debug\net5.0\FundamentalsLanguage_Exercises.exe
+D:\Univer\PRN211\repos\FundamentalsLanguage_Exercises\FundamentalsLanguage_Exercises\bin\Debug\net5.0\FundamentalsLanguage_Exercises.deps.json
+D:\Univer\PRN211\repos\FundamentalsLanguage_Exercises\FundamentalsLanguage_Exercises\bin\Debug\net5.0\FundamentalsLanguage_Exercises.runtimeconfig.json
+D:\Univer\PRN211\repos\FundamentalsLanguage_Exercises\FundamentalsLanguage_Exercises\bin\Debug\net5.0\FundamentalsLanguage_Exercises.runtimeconfig.dev.json
+D:\Univer\PRN211\repos\FundamentalsLanguage_Exercises\FundamentalsLanguage_Exercises\bin\Debug\net5.0\FundamentalsLanguage_Exercises.dll
+D:\Univer\PRN211\repos\FundamentalsLanguage_Exercises\FundamentalsLanguage_Exercises\bin\Debug\net5.0\FundamentalsLanguage_Exercises.pdb
+D:\Univer\PRN211\repos\FundamentalsLanguage_Exercises\FundamentalsLanguage_Exercises\obj\Debug\net5.0\FundamentalsLanguage_Exercises.csproj.AssemblyReference.cache
+D:\Univer\PRN211\repos\FundamentalsLanguage_Exercises\FundamentalsLanguage_Exercises\obj\Debug\net5.0\FundamentalsLanguage_Exercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\PRN211\repos\FundamentalsLanguage_Exercises\FundamentalsLanguage_Exercises\obj\Debug\net5.0\FundamentalsLanguage_Exercises.AssemblyInfoInputs.cache
+D:\Univer\PRN211\repos\FundamentalsLanguage_Exercises\FundamentalsLanguage_Exercises\obj\Debug\net5.0\FundamentalsLanguage_Exercises.AssemblyInfo.cs
+D:\Univer\PRN211\repos\FundamentalsLanguage_Exercises\FundamentalsLanguage_Exercises\obj\Debug\net5.0\FundamentalsLanguage_Exercises.csproj.CoreCompileInputs.cache
+D:\Univer\PRN211\repos\FundamentalsLanguage_Exercises\FundamentalsLanguage_Exercises\obj\Debug\net5.0\FundamentalsLanguage_Exercises.dll
+D:\Univer\PRN211\repos\FundamentalsLanguage_Exercises\FundamentalsLanguage_Exercises\obj\Debug\net5.0\refint\FundamentalsLanguage_Exercises.dll
+D:\Univer\PRN211\repos\FundamentalsLanguage_Exercises\FundamentalsLanguage_Exercises\obj\Debug\net5.0\FundamentalsLanguage_Exercises.pdb
+D:\Univer\PRN211\repos\FundamentalsLanguage_Exercises\FundamentalsLanguage_Exercises\obj\Debug\net5.0\FundamentalsLanguage_Exercises.genruntimeconfig.cache
+D:\Univer\PRN211\repos\FundamentalsLanguage_Exercises\FundamentalsLanguage_Exercises\obj\Debug\net5.0\ref\FundamentalsLanguage_Exercises.dll
