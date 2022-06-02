@@ -1,0 +1,16 @@
+D:\Univer\PRN211\pt\HE151385_Pham Van Dat_PT1\Q2\Q2\bin\Debug\net5.0\Q2.exe
+D:\Univer\PRN211\pt\HE151385_Pham Van Dat_PT1\Q2\Q2\bin\Debug\net5.0\Q2.deps.json
+D:\Univer\PRN211\pt\HE151385_Pham Van Dat_PT1\Q2\Q2\bin\Debug\net5.0\Q2.runtimeconfig.json
+D:\Univer\PRN211\pt\HE151385_Pham Van Dat_PT1\Q2\Q2\bin\Debug\net5.0\Q2.runtimeconfig.dev.json
+D:\Univer\PRN211\pt\HE151385_Pham Van Dat_PT1\Q2\Q2\bin\Debug\net5.0\Q2.dll
+D:\Univer\PRN211\pt\HE151385_Pham Van Dat_PT1\Q2\Q2\bin\Debug\net5.0\Q2.pdb
+D:\Univer\PRN211\pt\HE151385_Pham Van Dat_PT1\Q2\Q2\obj\Debug\net5.0\Q2.csproj.AssemblyReference.cache
+D:\Univer\PRN211\pt\HE151385_Pham Van Dat_PT1\Q2\Q2\obj\Debug\net5.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\PRN211\pt\HE151385_Pham Van Dat_PT1\Q2\Q2\obj\Debug\net5.0\Q2.AssemblyInfoInputs.cache
+D:\Univer\PRN211\pt\HE151385_Pham Van Dat_PT1\Q2\Q2\obj\Debug\net5.0\Q2.AssemblyInfo.cs
+D:\Univer\PRN211\pt\HE151385_Pham Van Dat_PT1\Q2\Q2\obj\Debug\net5.0\Q2.csproj.CoreCompileInputs.cache
+D:\Univer\PRN211\pt\HE151385_Pham Van Dat_PT1\Q2\Q2\obj\Debug\net5.0\Q2.dll
+D:\Univer\PRN211\pt\HE151385_Pham Van Dat_PT1\Q2\Q2\obj\Debug\net5.0\refint\Q2.dll
+D:\Univer\PRN211\pt\HE151385_Pham Van Dat_PT1\Q2\Q2\obj\Debug\net5.0\Q2.pdb
+D:\Univer\PRN211\pt\HE151385_Pham Van Dat_PT1\Q2\Q2\obj\Debug\net5.0\Q2.genruntimeconfig.cache
+D:\Univer\PRN211\pt\HE151385_Pham Van Dat_PT1\Q2\Q2\obj\Debug\net5.0\ref\Q2.dll
